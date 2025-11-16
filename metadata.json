@@ -1,0 +1,6 @@
+{
+  "name": "PDF to PPT AI Generator",
+  "description": "A web application that takes a PDF file, uses AI to extract and structure content, and generates a PowerPoint (PPTX) presentation.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
